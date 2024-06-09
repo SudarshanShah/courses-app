@@ -5,6 +5,9 @@ spring:
       port: 27017
       database: mydb
       
+server:
+  port: 8081      
+      
 logging:
   level:
     org:
